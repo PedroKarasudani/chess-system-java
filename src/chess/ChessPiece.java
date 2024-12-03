@@ -3,7 +3,6 @@ package chess;
 import boardgame.Board;
 import boardgame.Piece;
 
-import java.awt.*;
 
 public class ChessPiece extends Piece {
 
